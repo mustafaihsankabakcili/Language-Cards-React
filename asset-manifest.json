@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Language-Cards-React/static/css/main.6f5c73cb.css",
+    "main.js": "/Language-Cards-React/static/js/main.ce9309ce.js",
+    "static/media/php.png": "/Language-Cards-React/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/Language-Cards-React/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/Language-Cards-React/static/media/go.a0b3b49ab90e11213e6d.png",
+    "static/media/css.png": "/Language-Cards-React/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/Language-Cards-React/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/Language-Cards-React/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/java.png": "/Language-Cards-React/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/Language-Cards-React/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/Language-Cards-React/index.html",
+    "main.6f5c73cb.css.map": "/Language-Cards-React/static/css/main.6f5c73cb.css.map",
+    "main.ce9309ce.js.map": "/Language-Cards-React/static/js/main.ce9309ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5c73cb.css",
+    "static/js/main.ce9309ce.js"
+  ]
+}
